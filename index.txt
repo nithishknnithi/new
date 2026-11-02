@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 Nithish
 New Branch was added 
 dcgygd
 jhdcjhdvuhcv
 NewNew
-=======
 IS
->>>>>>> 5c0dc03 (New Added Command)

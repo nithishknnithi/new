@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Main Branch
+=======
+New Feature-branch
+>>>>>>> origin/Feature-Branch

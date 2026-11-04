@@ -12,4 +12,8 @@ Hello
 =======
 New data Arraived
 >>>>>>> b5f110e (sdvghs)
+<<<<<<< HEAD
 Another data
+=======
+New data added
+>>>>>>> aa42786 (Cs-b)

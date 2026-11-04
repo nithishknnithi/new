@@ -7,4 +7,8 @@ NewNew
 IS
 jrdfhuu
 Good Morning
+<<<<<<< HEAD
 Hello
+=======
+New data Arraived
+>>>>>>> b5f110e (sdvghs)

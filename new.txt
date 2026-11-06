@@ -1,2 +1,5 @@
+
 bfhgh
 Creating the Conflict
+
+New added Line

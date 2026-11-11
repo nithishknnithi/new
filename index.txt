@@ -1,18 +1,4 @@
 New one Data
 Nithish
-New Branch was added 
-dcgygd
-jhdcjhdvuhcv
-NewNew
-IS
-jrdfhuu
-Good Morning
-<<<<<<< HEAD
-Hello
-=======
-New data Arraived
->>>>>>> b5f110e (sdvghs)
-
-Another data
-
+Good Afternoon Cs-B
 
